@@ -1,0 +1,293 @@
+@import
+	url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,300;0,400;0,600;1,100;1,200;1,500;1,700&display=swap')
+	;
+
+html {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+:focus {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+header {
+	background: #4a90e2;
+	height: 50px;
+	margin-bottom: 15px;
+}
+
+header .main-logo {
+	font-size: 30px;
+	color: #fff;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 2px;
+}
+
+header .nav-link {
+	font-size: 19px;
+	margin-left: 3px;
+	margin-top: 4px;
+	width: 83px;
+	text-align: center;
+	font-weight: 600;
+}
+
+header .nav-link {
+	color: #fff;
+}
+
+header .nav-link.active {
+	color: #333;
+}
+.header-menu {
+	
+}
+.sub-header {
+	border: 1px solid #333;
+	border-radius: 5px;
+	height: 60px;
+	padding: 10px 10px;
+	background: #bad5f1;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.sub-header .sub-title {
+	font-weight: 900;
+	color: #333;
+	padding-left: 0px;
+	font-size: 20px;
+	padding-top: 3px;
+}
+
+#brandHide {
+    width: 90%;
+    background-color: green;
+}
+
+.edit-btn {
+	cursor: pointer;
+}
+
+p.mess {
+    margin-top: 8px;
+}
+
+.delete-btn {
+	cursor: pointer;
+}
+
+.action-btns {
+	text-align: center;
+	color: #4a90e2;
+}
+/* Search brand */
+.search-form {
+	display: flex;
+	margin: 10px 0;
+}
+
+.search-brand {
+	margin-left: 10px;
+}
+
+/* Search product */
+.form-search {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 10px 10px 0 10px;
+}
+
+.search-price {
+	width: 65%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#reset {
+	margin-left: 10px;
+	background: #6c757d;
+	border: #6c757d;
+}
+
+.price {
+	width: 52%;
+	margin: 0px 0px 0px -20px;
+}
+
+.priceFrom {
+	margin-right: 18px;
+}
+
+.priceTo {
+	margin-right: 10px;
+}
+
+.description , .images {
+	width: 46%;
+}
+
+textarea#description {
+    height: 80%;
+}
+/* Logout */
+#logout {
+	color: #efefef;
+}
+
+.header-left {
+	display: flex;
+}
+
+.header-right {
+	
+}
+/* Search */
+.nava {
+	background-color: #eee9e9;;
+	border: 1px solid #9E9E9E;
+	border-radius: 5px;
+}
+.itemlogo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 14%;
+	margin-bottom: 10px
+}
+.form-group {
+	margin-bottom: 1rem;
+}
+
+.mess {
+	text-align: center;
+	margin-bottom: 0;
+	color: blue;
+	font-weight: bold;
+	margin-top: 1px;
+}
+
+.checkbox img {
+	width: 100px;
+	height: 50px;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+.modal-content .modal-header {
+	padding: 0.5rem 1rem;
+	background: #e9ecef;
+}
+
+.modal-content .modal-body {
+	padding-bottom: 0.5rem;
+}
+
+.preview-image-upload {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.preview-image-upload img {
+	max-width: 50%;
+}
+
+.message-area {
+	padding: 5px 15px;
+}
+
+div.error-message-invalid, div.error, label.error-message-invalid, label.error
+	{
+	background-color: #f8d7da;
+	position: relative;
+	padding: .375rem .75rem;
+	margin-top: .5rem;
+	border: 1px solid #f5c6cb !important;
+	color: #dc3545 !important;
+	width: 100%;
+	border-radius: .25rem;
+	margin-bottom: 15px;
+}
+
+.table-bordered img {
+	width:60px;
+	height: 65px;
+}
+
+.required-field {
+	color: red;
+	font-weight: bold;
+}
+
+.group-double {
+	display: flex;
+	justify-content: space-between;
+}
+
+.brandName, .saleDate {
+	width: 46%;
+}
+
+.image-product {
+	height: 80px;
+	opacity: 60%;
+}
+
+.quantity {
+	width: 46%;
+}
+
+.checkbox {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 0px -20px 0px -10px;
+}
+
+.item-logo {
+	width: 20%;
+}
+.table thead th, .table-bordered td, .table-bordered th {
+	border: 1px solid #333;
+	border-radius: 5px;
+	vertical-align: middle;
+}
+
+.pagination {
+	margin-bottom: 30px;
+}
+
+.priceview {
+	width: 46%
+}
+
+.pagination a {
+	display: block;
+	color: #000000;
+	float: left;
+	margin: 0px 7px 0px 0;
+	padding: 6px 14px 9px;
+	text-decoration: none;
+	transition: background-color .3s;
+	min-width: 36px;
+}
+
+td {
+	text-align : center;
+}
+.pagination a.active {
+	border-radius: 5px;
+	color: white;
+	background-color: #000000;
+}
+
+.pagination a.disabled {
+	pointer-events: none;
+	color: #ccc;
+}

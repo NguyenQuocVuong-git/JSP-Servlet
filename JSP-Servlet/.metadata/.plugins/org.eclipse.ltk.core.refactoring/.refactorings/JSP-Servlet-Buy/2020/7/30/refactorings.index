@@ -1,0 +1,27 @@
+1595558052805	Delete elements
+1595558177535	Rename resource 'index.html'
+1595558231545	Move 'index2.jsp' to 'WebContent'
+1595558251794	Delete element
+1595558828425	Delete element
+1595590340235	Delete element
+1595590361819	Delete element
+1595590828894	Copy compilation unit
+1595590841021	Copy compilation unit
+1595590850498	Copy compilation unit
+1595590855573	Delete element
+1595591028209	Rename type 'BooksDAOImpl'
+1595591048694	Delete element
+1595593591832	Delete element
+1595593631054	Rename package 'DAO'
+1595593647575	Rename package 'DAOimpl'
+1595593758091	Rename package 'DBConnection'
+1595593766628	Rename package 'DTO'
+1595593846189	Rename type 'UserDAO'
+1595644928912	Copy compilation unit
+1595645051843	Delete element
+1595645092230	Delete element
+1595645805421	Copy file
+1595703951576	Move 'quantityExitst.jsp' to 'WebContent'
+1595704298872	Rename type 'QuantityExitst'
+1595705907969	Rename package 'Controller'
+1595716565117	Delete element

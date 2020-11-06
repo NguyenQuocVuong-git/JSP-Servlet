@@ -1,0 +1,24 @@
+.search-bar .form-group #brandNameSearch {
+	width: 250px;
+}
+form#brandInfoForm .modal-body .form-group input.upload-img {
+	padding: 5px 5px 5px 12px;
+}
+form#brandInfoForm .modal-body .form-group input.upload-img button {
+	height: 95%;
+}
+.form-group label, .form-group input, .form-group textarea, .form-group select {
+	font-size: .8rem;
+}
+.form-group {
+	margin-bottom: .5rem;
+}
+.form-group input#keyword {
+	width: 250px;
+}
+.preview-img-upload img {
+    max-width: 40%;
+}
+.modal-footer .btn {
+	font-size: .9rem;
+}

@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3748894300.index
+\JSP-Servlet-Buy\src
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1335012477.index
+\pilot-project-test\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\382690539.index
+\pilot-project\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1896094067.index
+\pilot-project\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1369207101.index
+\sample-project\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1062818028.index
+\JSP-Servlet-Buy\src
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3138228655.index
+\sample-project\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4067259795.index
+\pilot-project\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3452952290.index
+\pilot-project-test\src\main\java
+F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\JSP-Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2205233903.index
+\sample-project\src\main\java

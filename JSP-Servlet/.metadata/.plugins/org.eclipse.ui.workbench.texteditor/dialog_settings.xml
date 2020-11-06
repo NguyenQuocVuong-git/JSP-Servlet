@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="vertical-align"/>
+		<item key="wrap" value="false"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="true"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="vertical-align"/>
+			<item value="vertical-align: middle;"/>
+			<item value="brandInfoTable"/>
+			<item value="edit-btn"/>
+			<item value="header"/>
+			<item value="table"/>
+			<item value="renderProductTable"/>
+			<item value="btnExport"/>
+			<item value="check-area"/>
+			<item value="brandLogo"/>
+			<item value="checkbox-wrapper"/>
+			<item value="brand-checkboxs"/>
+			<item value=".check-area"/>
+			<item value="tableID"/>
+			<item value="list"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="iUserDao"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1023"/>
+		<item key="DIALOG_Y_ORIGIN" value="396"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="209"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="452"/>
+		<item key="DIALOG_Y_ORIGIN" value="247"/>
+	</section>
+</section>

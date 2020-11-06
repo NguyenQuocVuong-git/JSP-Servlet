@@ -1,0 +1,110 @@
+.search-bar .form-inline {
+	justify-content: space-between;;
+}
+form#productInputForm .modal-body .form-group input.upload-img {
+	padding: 5px 5px 5px 12px;
+}
+form#productInputForm .modal-body .form-group input.upload-img button {
+	height: 95%;
+}
+table thead th {
+	font-size: .85rem;
+}
+table tbody td {
+	font-size: .8rem;
+}
+.table td, .table th {
+	padding: .5em;
+}
+.modal-body .preview-img-upload img {
+    max-width: 45%;
+}
+.form-group label, .form-group input, .form-group textarea, .form-group select {
+	font-size: .8rem;
+}
+.form-group {
+	margin-bottom: .3rem;
+}
+.modal-body .form-group .form-control {
+	height: calc(1.3em + .75rem + 2px);
+}
+.form-group #priceFrom, .form-group #priceTo {
+	cursor: text;
+}
+.product-search form .brand-checkboxs .all-brands {
+	display: flex;
+	flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1px solid black;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+}
+.checkbox-wrapper {
+	position: relative;
+	display: flex;
+	margin-bottom: 10px;
+}
+.product-search form .brand-checkboxs .check-area {
+	display: flex;
+	max-width: 128px;
+	min-height: 100px;
+	cursor: pointer;
+}
+.check-area-checked {
+	border: 1.5px solid var(--primary-color);
+    border-radius: 5px;
+}
+.check-area .fa {
+  	position: absolute;
+	color: #4783B0;
+	background-color: #fff;
+	top: 4px;
+	left: 8px;
+}
+.check-area-checked .fa {
+  display: block !important;
+}
+.product-search form .brand-checkboxs .more-less {
+    text-align: center;
+    align-self: center;
+	width: 128px;
+	font-weight: 500;
+    font-size: 19px;
+    border: 1.5px solid var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: .5rem;
+}
+.product-search form .brand-checkboxs .more-less:hover {
+	font-style: italic;
+}
+.product-search img {
+	max-width: 80%;
+}
+.product-search div.err-message-invalid {
+	width: auto;
+    font-size: .8rem;
+    position: absolute;
+    margin-top: 80px;
+    opacity: .95;
+    margin-left: 77px;
+    padding: .3rem .5rem;
+}
+.product-search #prodSearchBtn {
+	padding-top: 6px;
+    padding-bottom: 9px;
+}
+.product-search #resetSearchProd {
+	padding-top: 5px;
+    padding-bottom: 7px;
+}
+.modal-footer .btn {
+	font-size: .9rem;
+}
+.modal-body div.err-message-invalid {
+	margin-bottom: 0;
+}

@@ -1,0 +1,12 @@
+
+Jul 29, 2020 24:32:18.12 NEW SESSION
+Jul 29, 2020 24:32:18.12 [11856:9500:0729/003218.125:ERROR:device_event_log_impl.cc(208)] [00:32:18.125] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+Jul 30, 2020 13:43:29.04 NEW SESSION
+Jul 30, 2020 13:43:29.04 [13616:11520:0730/134329.041:ERROR:device_event_log_impl.cc(208)] [13:43:29.041] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Jul 30, 2020 14:42:48.95 [13616:4436:0730/144248.955:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jul 30, 2020 17:42:57.19 [13616:1872:0730/174257.197:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 30, 2020 20:46:19.12 [13616:11520:0730/204619.123:ERROR:gcm_message_cryptographer.cc(373)] Unable to transform the record.
+
+Aug 05, 2020 10:04:30.09 NEW SESSION
+Aug 05, 2020 10:04:30.10 [4572:1620:0805/100430.079:ERROR:device_event_log_impl.cc(208)] [10:04:30.078] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.

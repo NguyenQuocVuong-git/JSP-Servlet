@@ -1,0 +1,136 @@
+header {
+	background: #4a90e2;
+	height: 50px;
+	margin-bottom: 15px;
+}
+
+header .main-logo {
+	font-size: 30px;
+	color: #fff;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 2px;
+}
+
+.action-btns {
+	text-align: center;
+	color: #4a90e2;
+}
+
+.action-btns a {
+	cursor: pointer;
+}
+
+.modal-content .modal-header {
+	padding: 0.5rem 1rem;
+	background: #e9ecef;
+}
+
+.modal-content .modal-body {
+	padding-bottom: 0.5rem;
+}
+
+.preview-image-upload {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.preview-image-upload img {
+	max-width: 50%;
+}
+
+.message-area {
+	padding: 5px 15px;
+}
+
+div.error-message-invalid, div.error, label.error-message-invalid, label.error
+	{
+	background-color: #f8d7da;
+	position: relative;
+	padding: .375rem .75rem;
+	margin-top: .5rem;
+	border: 1px solid #f5c6cb !important;
+	color: #dc3545 !important;
+	width: 100%;
+	border-radius: .25rem;
+	margin-bottom: 15px;
+}
+h4.float-left {
+    color: blue;
+}
+
+.table-bordered img {
+	max-width: 80px;
+}
+
+.pagination {
+	margin-bottom: 30px;
+}
+
+.pagination a {
+	display: block;
+	color: #000000;
+	float: left;
+	margin: 0px 7px 0px 0;
+	padding: 9px 14px 9px;
+	text-decoration: none;
+	transition: background-color .3s;
+	min-width: 36px;
+}
+
+.pagination a.active {
+	border-radius: 5px;
+	color: white;
+	background-color: #000000;
+}
+
+.pagination a.disabled {
+	pointer-events: none;
+	color: #ccc;
+}
+
+h4{
+	color : red;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+}
+
+.left {
+	display: flex;
+}
+
+.logo {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+}
+.navbar-light .navbar-brand {
+	font-size: 22px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.navbar-light .navbar-brand:hover {
+	color: #fff;
+}
+
+.nav-bg {
+	background-color: #6a8db2;
+	margin-bottom: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 20px;
+	font-weight: 600;
+	color: #f5f5f5;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #567c8e;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	color: #03354c;
+}

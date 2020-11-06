@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="JSP-Servlet-Buy"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="JSP-Servlet-Buy"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\pilot-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\Project-NhiNgo\training-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\Fix lỗi cũ\pilot-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\Project-NhiNgo\training-project\02. Back-end\00. Exercise\NhiNgo\pilot-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day 10 - MVC _ Servlet JSP\Pilot-Project\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\project fix view\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\pl\ajax\training-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\pl\ajax\training-project\02. Back-end\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\pl\first-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\pilot-aThien\training-project\02. Back-end\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\đmx trưng\training-project\training-project\02. Back-end\pilot-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\đmx trưng\training-project\training-project\02. Back-end\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Thực Hành\đmx trưng\training-project\training-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day14-Spring &amp; Framework\Project\sample-project"/>
+			<item value="F:\Learn Javaa\Aptech\Day14-Spring &amp; Framework\Project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
